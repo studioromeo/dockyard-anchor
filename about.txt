@@ -1,0 +1,5 @@
+Theme name:    Dockyard
+Description:   
+Author name:   Robert Rhoades
+Author site:   http://studioromeo.co.uk
+License:       MIT
